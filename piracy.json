@@ -26,5 +26,19 @@
     "tag": "Movies",
     "desc": "Streaming hub for torrents.",
     "url": "https://www.yts-official.cc/"
+  },
+  {
+    "name": "MoviesUS",
+    "category": "movies",
+    "tag": "Movies",
+    "desc": "Streaming hub for Movies.",
+    "url": "https://moviespro.watch/"
+  },
+  {
+    "name": "M4uhdnow",
+    "category": "movies",
+    "tag": "Movies",
+    "desc": "Streaming hub for Movies.",
+    "url": "https://m4uhdnow.net/"
   }
 ]
