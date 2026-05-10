@@ -5,5 +5,19 @@
     "tag": "Movies",
     "desc": "Streaming hub for torrents.",
     "url": "https://stremio.com"
+  }, 
+  {
+    "name": "FitGirl",
+    "category": "games",
+    "tag": "Games",
+    "desc": "The goat for compressed repacks.",
+    "url": "https://fitgirl-repacks.site"
+  },
+  {
+    "name": "Dodi Repacks",
+    "category": "games",
+    "tag": "Games",
+    "desc": "Faster installs than FitGirl.",
+    "url": "https://dodi-repacks.site"
   }
 ]
