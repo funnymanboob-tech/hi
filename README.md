@@ -1,10 +1,10 @@
 category's
 
-movies
+movies,
 games
 
 software.json:
 
-os
-adblock
-browsers
+os,
+adblock,
+browsers,
