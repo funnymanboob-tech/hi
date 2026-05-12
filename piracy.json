@@ -50,7 +50,7 @@
   },
   {
     "name": "annas-archive",
-    "catergory": "books",
+    "category": "books",
     "tag": "Books",
     "desc": "The largest truly open library in human history.",
     "url": "https://annas-archive.gl/datasets"
