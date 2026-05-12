@@ -40,5 +40,12 @@
     "tag": "Movies",
     "desc": "Streaming hub for Movies.",
     "url": "https://m4uhdnow.net/"
+  },
+  {
+    "name": "AnkerGames",
+    "category": "games",
+    "tag": "Games",
+    "desc": "Free Download Pre-installed portable PC games from steam and major publishers with fastest downloads.",
+    "url": "https://ankergames.net/"
   }
 ]
