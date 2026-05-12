@@ -2,21 +2,21 @@
   {
     "name": "Stremio",
     "category": "movies",
-    "tag": "Movies",
+    "tag": "Torrent Stream",
     "desc": "Streaming hub for torrents.",
     "url": "https://stremio.com"
   }, 
   {
     "name": "FitGirl",
     "category": "games",
-    "tag": "Games",
+    "tag": "Torrent",
     "desc": "The goat for compressed repacks.",
     "url": "https://fitgirl-repacks.site"
   },
   {
     "name": "Dodi Repacks",
     "category": "games",
-    "tag": "Games",
+    "tag": "Torrent",
     "desc": "Faster installs than FitGirl.",
     "url": "https://dodi-repacks.site"
   },
@@ -54,5 +54,12 @@
     "tag": "Books",
     "desc": "The largest truly open library in human history.",
     "url": "https://annas-archive.gl/datasets"
+  },
+  {
+    "name": "ramoflix",
+    "category": "movies",
+    "tag": "Movies",
+    "desc": "Unlimited Movies & TV Shows. Anytime. Anywhere.",
+    "url": "https://ramoflix.net/"
   }
 ]
