@@ -47,5 +47,12 @@
     "tag": "Games",
     "desc": "Free Download Pre-installed portable PC games from steam and major publishers with fastest downloads.",
     "url": "https://ankergames.net/"
+  },
+  {
+    "name": "annas-archive.gl",
+    "catergory": "books",
+    "tag": "Books",
+    "desc": "The largest truly open library in human history.",
+    "url": "https://annas-archive.gl/datasets"
   }
 ]
