@@ -5,12 +5,5 @@
     "tag": "Ad-Blocker",
     "desc": "Professional-grade content blocking, easy on CPU and memory.",
     "url": "https://ublockorigin.com"
-  },
-  {
-    "name": "AdblockPlus",
-    "category": "adblock",
-    "tag": "Ad-Blocker",
-    "desc": "Surf the web with no annoying ads"
-    "url": "https://adblockplus.org/"
   }
 ]
