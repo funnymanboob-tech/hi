@@ -61,5 +61,47 @@
     "tag": "Movies",
     "desc": "Unlimited Movies & TV Shows. Anytime. Anywhere.",
     "url": "https://ramoflix.net/"
+  },
+  {
+    "name": "Wmovies",
+    "category": "movies",
+    "tag": "Movies",
+    "desc": "Streaming hub for Movies.",
+    "url": "https://wmovies.org/home/"
+  },
+  {
+    "name": "Hydrahd",
+    "category": "movies",
+    "tag": "Movies",
+    "desc": "Watch Movies and Series Online Free!",
+    "url": "https://hydrahd.ru/"
+  },
+  {
+    "name": "Anime Nexus",
+    "category": "movies",
+    "tag": "Anime",
+    "desc": "Streaming hub for Anime.",
+    "url": "https://anime.nexus/"
+  },
+  {
+    "name": "Anisuge",
+    "category": "movies",
+    "tag": "Anime",
+    "desc": "Streaming hub for Anime.",
+    "url": "https://anisuge.tv/home"
+  },
+  {
+    "name": "Anizone",
+    "category": "movies",
+    "tag": "Anime",
+    "desc": "Streaming hub for Anime.",
+    "url": "https://anizone.to/"
+  },
+  {
+    "name": "Comix",
+    "category": "books",
+    "tag": "Manga",
+    "desc": "Manga and webtoons made simple",
+    "url": "https://comix.to"
   }
 ]
