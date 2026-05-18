@@ -26,5 +26,12 @@
     "tag": "Remover",
     "desc": "Read articles without annoying paywalls",
     "url": "https://www.removepaywall.com/"
+  },
+  {
+    "name": "FakeDetail",
+    "category": "other",
+    "tag": "Fake Details",
+    "desc": "Fake Chat Generator",
+    "url": "https://fakedetail.com/"
   }
 ]
