@@ -103,5 +103,12 @@
     "tag": "Manga",
     "desc": "Manga and webtoons made simple",
     "url": "https://comix.to"
+  },
+  {
+    "name": "CineHD",
+    "category": "movies",
+    "tag": "Movies",
+    "desc": "Streaming hub for Movies.",
+    "url": "https://cinehd.app/home"
   }
 ]
