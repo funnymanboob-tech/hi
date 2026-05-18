@@ -12,5 +12,11 @@
     "tag": "View Cameras",
     "desc": "The world biggest directory of online surveillance security cameras",
     "url": "http://insecam.org/en/"
-  }
+  },
+  {
+    "name": "LibreWolf",
+    "category": "browsers",
+    "tag": "Security Browser",
+    "desc": "A custom version of Firefox, focused on privacy, security and freedom.",
+    "url": "https://librewolf.net/"
 ]
