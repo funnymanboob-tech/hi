@@ -5,5 +5,12 @@
     "tag": "Ad-Blocker",
     "desc": "Professional-grade content blocking, easy on CPU and memory.",
     "url": "https://ublockorigin.com"
+  }, 
+  {
+    "name": "Insecam",
+    "category": "cameras",
+    "tag": "View Cameras",
+    "desc": "The world biggest directory of online surveillance security cameras",
+    "url": "http://insecam.org/en/"
   }
 ]
