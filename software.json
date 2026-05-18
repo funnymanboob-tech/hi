@@ -19,5 +19,11 @@
     "tag": "Security Browser",
     "desc": "A custom version of Firefox, focused on privacy, security and freedom.",
     "url": "https://librewolf.net/"
-  }
+  },
+  {
+    "name": "RemovePaywall",
+    "category": "other",
+    "tag": "Remover",
+    "desc": "Read articles without annoying paywalls",
+    "url": "https://www.removepaywall.com/"
 ]
